@@ -1,6 +1,5 @@
  Hi there 👋
  - I'm Mertcan
- - 🔭 I’m currently working on "Merchant's Coin" and "Crazy Micro Game"
  - 🌱 I’m currently learning Blender and Unity
  - 📫 How to reach me: mertcanuzer94@gmail.com
  - ⚡ Fun fact: I was the rank 10th Pyke player in League of Legends
