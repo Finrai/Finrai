@@ -2,7 +2,7 @@
  - I'm Mertcan
  - 🌱 I’m currently learning Blender and Unity
  - 📫 How to reach me: mertcanuzer94@gmail.com
- - ⚡ Fun fact: I was the rank 10th Pyke player in League of Legends
+ - ⚡ Fun fact: I was the rank 9th Pyke player in League of Legends
 
 <!--
 **Finrai/Finrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
